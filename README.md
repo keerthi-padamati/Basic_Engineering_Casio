@@ -57,3 +57,12 @@ Compute results from comma-separated input values:
 **JavaScript (ES6)**
 
 
+
+---
+
+## 🧰 How to Run
+
+1. **Clone or download** the repository:
+   ```bash
+   git clone https://github.com/yourusername/Basic-Engineering-Casio.git
+
