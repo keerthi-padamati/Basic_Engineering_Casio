@@ -60,11 +60,13 @@ Compute results from comma-separated input values:
 
 ---
 
-## 🧰 How to Run
+##  How to Run
 
 1. **Clone or download** the repository:
-   ```bash
-   https://github.com/keerthi-padamati/Basic_Engineering_Casio.git
-2.Open the folder and run the index.html file in your browser:  open index.html
+2. ```bash
+    https://github.com/keerthi-padamati/Basic_Engineering_Casio.git
+ 
+3. Open the folder and run the index.html file in your browser:  open index.html
+4. Use it just like a real scientific calculator
 
-3. Use it just like a real scientific calculator!
+
