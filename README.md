@@ -64,5 +64,7 @@ Compute results from comma-separated input values:
 
 1. **Clone or download** the repository:
    ```bash
-   git clone https://github.com/yourusername/Basic-Engineering-Casio.git
-
+   https://github.com/keerthi-padamati/Basic_Engineering_Casio.git
+2.Open the folder and run the index.html file in your browser:
+open index.html
+3.Use it just like a real scientific calculator!
