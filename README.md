@@ -18,3 +18,16 @@ This calculator performs everything from basic arithmetic to advanced scientific
 - `n!` (factorial)  
 - `10^x`  
 - Constants: **π** and **e**
+
+###  Combinatorics
+- `nPr` → Permutation  
+- `nCr` → Combination  
+
+### Statistics Mode
+Compute results from comma-separated input values:
+- Sum  
+- Mean  
+- Median  
+- Mode  
+- Variance  
+- Standard Deviation  
