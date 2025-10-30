@@ -66,4 +66,4 @@ Compute results from comma-separated input values:
    ```bash
    https://github.com/keerthi-padamati/Basic_Engineering_Casio.git
 2.Open the folder and run the index.html file in your browser:  open index.html
-3.Use it just like a real scientific calculator!
+3. Use it just like a real scientific calculator!
