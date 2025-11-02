@@ -32,7 +32,7 @@ Compute results from comma-separated input values:
 - Variance  
 - Standard Deviation
 
-  ###  Temperature Conversion
+  ### Temperature Conversion
 - Convert between **Celsius**, **Fahrenheit**, and **Kelvin**
 
 ###  Base-n Conversion
@@ -42,7 +42,7 @@ Compute results from comma-separated input values:
   - Decimal (base 10)
   - Hexadecimal (base 16)
  
-  ### ⚙️ Engineering Unit Conversion
+  ###  Engineering Unit Conversion
 - Degrees ↔ Radians  
 - Meters ↔ Centimeters  
 - Kilograms ↔ Grams  
