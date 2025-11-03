@@ -32,7 +32,7 @@ Compute results from comma-separated input values:
 - Variance  
 - Standard Deviation
 
-  ### Temperature Conversion
+### Temperature Conversion
 - Convert between **Celsius**, **Fahrenheit**, and **Kelvin**
 
 ###  Base-n Conversion
@@ -42,7 +42,7 @@ Compute results from comma-separated input values:
   - Decimal (base 10)
   - Hexadecimal (base 16)
  
-  ###  Engineering Unit Conversion
+###  Engineering Unit Conversion
 - Degrees ↔ Radians  
 - Meters ↔ Centimeters  
 - Kilograms ↔ Grams  
@@ -63,10 +63,10 @@ Compute results from comma-separated input values:
 ##  How to Run
 
 1. **Clone or download** the repository:
-2. ```bash
+ ```bash
     https://github.com/keerthi-padamati/Basic_Engineering_Casio.git
- 
-3. Open the folder and run the index.html file in your browser:  open index.html
-4. Use it just like a real scientific calculator
+ ```
+2. Open the folder and run the index.html file in your browser:  open index.html
+3. Use it just like a real scientific calculator
 
 
