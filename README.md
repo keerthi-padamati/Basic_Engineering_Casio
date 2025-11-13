@@ -6,7 +6,7 @@ This calculator performs everything from basic arithmetic to advanced scientific
 ---
 ## Features
 
-### Basic Operations
+- ### Basic Operations
 - Addition, Subtraction, Multiplication, Division  
 - Decimal point support  
 - `DEL` and `CE` for correction and clearing  
